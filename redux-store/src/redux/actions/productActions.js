@@ -1,4 +1,4 @@
-import { ActionTypes } from "../constants/action-types"
+import { ActionTypes } from "../contants/action-types"
 
 export const setProducts = (products) => {
     return {
